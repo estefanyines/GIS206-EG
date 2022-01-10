@@ -5,7 +5,9 @@ GIS 206 is a course taught by Yoh Kawano at UCLA. This class is being offered du
 - My name is Estefany Garcia and I am a Master's of Urban Planning student at UCLA. I am a first year MURP student, with a professional background in community organizing throughout the Eastside of Los Angeles. 
 
 ### Project Ideas: 
-- What is the quality of housing for renters across the United States? 
+1. How many people live in rent subsidized housing across major metropolitan cities in the United States and what is the racial demographic of these renters?
+2. What is the quality of housing for renters across the United States? Which racial group experiences the worst housing quality?
+###### Other Ideas: 
 - How many affordable housing units are there per state throughout the United States? 
 - How many informal housing units are there throughout Los Angeles? Are there any existing programs that support informal housing units becoming up to code or incentivize affordable housing development in existing properties? 
 - In Los Angeles, how many people experience harrassment by their landlord, how many submit a formal complaint per year, and what is the average resolution after submitting a complaint? 
